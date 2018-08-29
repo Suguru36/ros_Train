@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sgr/develop/ros_train/catkin_ws/devel/setup.sh
