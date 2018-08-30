@@ -1,2 +1,2 @@
-
+ros_start
 -DCATKIN_DEVEL_PREFIX=/home/sgr/develop/ros_train/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sgr/develop/ros_train/catkin_ws/install -G Unix Makefiles

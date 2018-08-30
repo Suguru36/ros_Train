@@ -2,4 +2,4 @@
 source_root_dir = "/home/sgr/develop/ros_train/catkin_ws/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/home/sgr/catkin_ws/devel;/opt/ros/indigo".split(';') if "/home/sgr/catkin_ws/devel;/opt/ros/indigo" != "" else []
+underlay_workspaces = "/home/sgr/develop/ros_train/catkin_ws/devel;/opt/ros/indigo".split(';') if "/home/sgr/develop/ros_train/catkin_ws/devel;/opt/ros/indigo" != "" else []
